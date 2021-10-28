@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1MAMUN
+- 👋 Hi, I’m Abdulla Al Mamun
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
